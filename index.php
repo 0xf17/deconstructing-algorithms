@@ -9,7 +9,7 @@ include 'config.php';
 
         <!-- HEADER -->
         <div class="row align-items-start">
-            <h1 class="sans"><a class="title" href="/">Deconstructing Algorithms</a>
+            <h1 class="sans"><a class="title" href="/deconstructing-algorithms">Deconstructing Algorithms</a>
                 <?php include 'partials/dark-theme-toggle.php'; ?></h1>
         </div>
 
