@@ -10,7 +10,7 @@ include '../config.php';
         <!-- HEADER -->
         <div class="row align-items-start">
             <div class="col-lg-12">
-                <h1 class="sans"><a href="/">Deconstructing Algorithms</a> / 2020
+                <h1 class="sans"><a href="/deconstructing-algorithms">Deconstructing Algorithms</a> / 2020
                     <?php include '../partials/dark-theme-toggle.php'; ?></h1>
             </div>
         </div>
