@@ -3,8 +3,8 @@
 const currentTheme = localStorage.getItem("theme");
 const btn = document.querySelector("#btn-toggle");
 const theme = document.querySelector("#theme-link");
-const darkcss = "https://aux.mathscapes.xyz/css/dark.css";
-const lightcss = "https://aux.mathscapes.xyz/css/light.css";
+const darkcss = "http://mathscapes.xyz/aux/css/dark.css";
+const lightcss = "http://mathscapes.xyz/aux/css/light.css";
 
 if (currentTheme == "dark") {
     theme.href = darkcss;
