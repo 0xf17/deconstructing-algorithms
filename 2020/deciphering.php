@@ -36,7 +36,10 @@ include '../config.php';
                 <p class="serif">To achieve this vision, the project identifies ‘Explainable AI’ as a methodology which inspects and explains the steps and models involved at the back-end of artificial intelligence technology and makes it apparent and understandable for users.</p>
 
                 <div class="video-container mb-3">
-                    <iframe src="https://player.vimeo.com/video/506170943" width="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                    <!-- <iframe src="https://player.vimeo.com/video/506170943" width="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> -->
+                    <video width="100%" preload="auto" controls>
+                        <source src="deciphering-algorithms.mp4" type="video/mp4">
+                    </video>
                 </div>
 
                 <p class="serif">While looking to engage users with this information, it is important to locate relevant factors that are understandable, and meaningful for them to decide the extent of their relationship with these services. When using Explainable AI methodologies as a medium to make obscured algorithmic processes apparent, this project finds it imperative to look at users as new learners, informing their decisions by ways of explainability that are borrowed from pedagogy and instructional design.</p>

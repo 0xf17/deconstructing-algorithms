@@ -27,7 +27,7 @@ include 'config.php';
         <div class="row align-items start mt-3">
             <div class="col-lg-12">
                 <p class="sans big">2020 Showcase</p>
-                <p class="serif"><a href="2020/challenge-brief.php">Challenge Brief</a>, <a href="2020/foreword.php">Foreword</a>, <a href="2020/acknowledgement.php">Acknowledgement</a>, <a href="2020/epilogue.php">Epilogue</a>, <a href="2020/behind-the-scene.php">Behind the scene</a></p>
+                <p class="serif"><a href="2020/challenge-brief.php">Challenge Brief</a>, <a href="2020/foreword.php">Foreword</a>, <a href="2020/acknowledgement.php">Acknowledgement</a>, <a href="2020/epilogue.php">Epilogue</a>, <a href="2020/behind-the-scenes.php">Behind the scenes</a></p>
             </div>
             <div class="col-xl-4">
                 <div class="gallery-item">
@@ -57,25 +57,25 @@ include 'config.php';
                 <div class="gallery-item">
                     <img src="2020/daksha.jpg">
                 </div>
-                <p class="serif mt-2"><a href="#">Daksha Dixit</a></p>
+                <p class="serif mt-2"><a href="https://www.linkedin.com/in/daksha-dixit-31161a166">Daksha Dixit</a></p>
             </div>
             <div class="col-xl-2">
                 <div class="gallery-item">
                     <img src="2020/nupur.jpg">
                 </div>
-                <p class="serif mt-2"><a href="#">Nupur Patny</a></p>
+                <p class="serif mt-2"><a href="https://www.linkedin.com/in/nupurpatny/">Nupur Patny</a></p>
             </div>
             <div class="col-xl-2">
                 <div class="gallery-item">
                     <img src="2020/shreya.jpg">
                 </div>
-                <p class="serif mt-2"><a href="#">Shreya Mishra</a></p>
+                <p class="serif mt-2"><a href="https://www.linkedin.com/in/shreyamishra1410/">Shreya Mishra</a></p>
             </div>
             <div class="col-xl-2">
                 <div class="gallery-item">
                     <img src="2020/simran.jpg">
                 </div>
-                <p class="serif mt-2"><a href="#">Simran Singh</a></p>
+                <p class="serif mt-2"><a href="https://simran.myportfolio.com/">Simran Singh</a></p>
             </div>
         </div>
 
