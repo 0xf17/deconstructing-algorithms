@@ -27,6 +27,7 @@ include 'config.php';
         <div class="row align-items start mt-3">
             <div class="col-lg-12">
                 <p class="sans big">2020 Showcase</p>
+                <p class="sans big">Supported by Srishti Institute of Art, Design and Technology</p>
                 <p class="serif"><a href="2020/challenge-brief.php">Challenge Brief</a>, <a href="2020/foreword.php">Foreword</a>, <a href="2020/acknowledgement.php">Acknowledgement</a>, <a href="2020/epilogue.php">Epilogue</a>, <a href="2020/behind-the-scenes.php">Behind the scenes</a></p>
             </div>
             <div class="col-xl-4">
