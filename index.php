@@ -89,7 +89,7 @@ include 'config.php';
 
         <div class="row align-items start mt-3">
             <div class="col-lg-8">
-                <p class="serif">This project is supported and maintained by <a href="#">Gaurav Singh</a>. All rights to project content retain with original authors and have been used on this website with their permission.</p>
+                <p class="serif">This project is supported and maintained by <a href="https://0xf17.xyz/srishti">Gaurav Singh</a>. All rights to project content retain with original authors and have been used on this website with their permission.</p>
             </div>
         </div>
     </div>

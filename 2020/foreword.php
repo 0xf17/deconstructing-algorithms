@@ -36,7 +36,7 @@ include '../config.php';
             </div>
 
             <div class="col-lg-8">
-                <p class="serif">By <a href="#">Gaurav Singh</a></p>
+                <p class="serif">By <a href="https://0xf17.xyz">Gaurav Singh</a></p>
                 <p class="serif">I am fortunate to be writing the foreword for Deconstructing Algorithms 2020.</p>
 
                 <p class="serif">The first project, "Deciphering Algorithms" is an original work by Daksha Dixit and Simran Singh. They started off to simplify algorithms for the common, to make it so digestible that it enables everyone to understand the implications. Among many many things, in their final output, they take the inspiration from the code inspector in web browsers. Their final output imagines a similar inspection tool but for revealing all the mechanical clockwork of the underlying algorithmic system. Imagine knowing the decisions YouTube made before recommending you the dog video in your feed. Their concept explores possible ways of engaging with the information, in a manner that it does not overwhelm but scaffold them step by step to eventually help build self-efficacy. This report also documents the ups and downs in their journey to build their proposition into prototypes of their imagination.</p>

@@ -36,7 +36,7 @@ include '../config.php';
             </div>
 
             <div class="col-lg-8">
-                <p class="serif">By <a href="#">Vineeta Rath</a></p>
+                <p class="serif">By <a href="https://in.linkedin.com/in/vineetarath">Vineeta Rath</a></p>
                 <p class="serif">The brief, to ‘deconstruct algorithms’ is not an easy one - because these ‘intangible instructions’ remain ‘hidden’ from average humans, who go about their daily lives in a more-or-less ‘tangible’ world. Irrespective of where they are deployed, functioning in the background, these algorithms remain unquestioningly sincere to the human minds that built them. And, more often than not, may also have embedded within them, innocently, the intelligences, interests and biases of their creators. Not to speak of the unexpected powers algorithms can acquire over time, as they evolve through learning the environments they are deployed in, both human and non-human.</p>
 
                  <p class="serif">This leads to the following few pertinent questions among many…Can we humans understand algorithms enough to be able to work with them as they evolve - and rather than beasts we cannot relate to after a point in time, can they continue to remain as powerful tools, as they would have originally been envisioned to be - and continue to operate as allies, towards more equitable and plural futures? Can we imagine more inclusive futures where the understanding of algorithms is as ubiquitous and ‘normal’ as their own proliferation and omnipresence? And therefore, curiously enough, can we truly ‘deconstruct’ these potent human creations called ‘algorithms’ - to then enable their ‘more conscious constructions’?</p>
