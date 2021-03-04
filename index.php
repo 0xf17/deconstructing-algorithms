@@ -20,11 +20,18 @@ include 'config.php';
             </div>
             <div class="col-lg-5"></div>
             <div class="col-lg-2">
-                <p class="sans text-end">Coming up next - Call for Deconstructing Algorithms 2021</p>
+                <!-- <p class="sans text-end">Coming up next - Call for Deconstructing Algorithms 2021</p> -->
             </div>
         </div>
 
         <div class="row align-items start mt-3">
+            <div class="col-lg-12">
+                <p class="sans big">2021</p>
+                <p class="serif">Challenge Brief (Coming up on 13th March)</p>
+            </div>
+        </div>
+
+        <div class="row align-items start mt-5">
             <div class="col-lg-12">
                 <p class="sans big">2020 Showcase</p>
                 <p class="serif">Supported by Srishti Institute of Art, Design and Technology</p>
